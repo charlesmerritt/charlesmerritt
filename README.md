@@ -9,7 +9,7 @@ I'm an Artificial Intelligence student and researcher at the University of Georg
 
 ## Current Projects
 ### LaundryBot 
-Raspberry Pi Pico-powered dryer vibration detection with Discord notifications Built with Python and FastAPI, automated alerts via Discord
+Raspberry Pi Pico-powered dryer vibration detection to let you know when your laundry is dry! Built with Python and FastAPI, automated alerts via a Discord bot.
 
 ### Timber Supply Optimization Webification
 Converting a massive timber supply optimization model written in Python with the Pyomo linear programming library to a web-ready & mobile friendly webapp.

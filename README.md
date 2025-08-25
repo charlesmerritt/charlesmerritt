@@ -11,7 +11,7 @@ My master's thesis project! It's all about creating a markov model of the forest
 - Retro Emulation 👾
 - RPGs 🧙‍♂️⚔️
 - Chess ♟️
-![Chess.com Elo](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/YOUR_USERNAME/stats&label=ELO&query=$.chess_rapid.last.rating&color=brightgreen&logo=chess)
+![Chess.com Elo](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/chamzert/stats&label=ELO&query=$.chess_rapid.last.rating&color=brightgreen&logo=chess)
 
 
 ## 🌐 Socials:

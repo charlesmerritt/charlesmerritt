@@ -1,5 +1,5 @@
 # Hi, I'm Chaz 👋
-I'm an Artificial Intelligence student and researcher at the University of Georgia with a focus on markov chains, digital forestry, and reinforcement learning. My work focuses on integrating machine learning technology into forestry operations and other geospatial data science. 
+I'm an Artificial Intelligence student and researcher at the University of Georgia with a focus on markov chains, digital forestry, and reinforcement learning. My work focuses on integrating probabilistic machine learning technology into timber planning for the modern forester, GIS analyst, or land owner. 
 
 ## Current Projects
 ### Harnessing Reinforcement Learning for Forest Growth Modeling Under Uncertainty

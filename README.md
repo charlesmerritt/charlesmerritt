@@ -10,7 +10,7 @@ My master's thesis project! It's all about creating a markov model of the forest
 - Software Defined Radio 📡
 - Retro Emulation 👾
 - RPGs 🧙‍♂️⚔️
-- Chess ♟️ [![Chess.com Elo](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/chamzert/stats&label=ELO&query=$.chess_rapid.last.rating&color=brightgreen&logo=chess)](https://www.chess.com/member/chamzert)  p.s. Feel free to add me on chess.com with the green button and try to beat me.
+- Chess ♟️ [![Chess.com Elo](https://img.shields.io/badge/dynamic/json?url=https://api.chess.com/pub/player/chamzert/stats&label=ELO&query=$.chess_rapid.last.rating&color=brightgreen&logo=chess)](https://www.chess.com/member/chamzert)<br> p.s. Feel free to add me on chess.com with the green button and try to beat me.
 
 
 ## 🌐 Socials:

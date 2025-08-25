@@ -1,14 +1,16 @@
 # Hi, I'm Chaz 👋
 I'm an Artificial Intelligence student and researcher at the University of Georgia with a focus on deep learning, GeoAI, and reinforcement learning. My work focuses on integrating machine learning technology into forestry operations and geospatial research.
 
+## Current Project
+### Harnessing Reinforcement Learning for Forest Growth Modeling Under Uncertainty
+My thesis project! It's all about creating a markov model of the forest to better capture random events like storms, fires, or pests, and then training an agent on that environment using reinforcement learning.
+
 ## Outside Interests
 - Archery (Olympic Recurve ftw 💪🏹)
 - Software Defined Radio 📡
 - Retro Emulation
-
-## Current Project
-### Harnessing Reinforcement Learning for Forest Growth Modeling Under Uncertainty
-My thesis project! It's all about creating a markov model of the forest to better capture random events like storms, fires, or pests, and then training an agent on that environment using reinforcement learning.
+- RPGs
+- Chess
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camak._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaz-merritt) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chazmerritt4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charles.merritt@uga.edu) [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/profiles/76561198080686638/)

@@ -100,15 +100,22 @@ class ChartRenderer:
         plt.savefig(out_path, format="svg", bbox_inches="tight")
         plt.close()
 
+def repo_root() -> Path:
+    return Path(__file__).resolve().parents[1]
+
 def main():
     username = os.getenv("CHESS_USERNAME", "chamzert")
+    root = repo_root()
+    assets_dir = root / os.getenv("ASSETS_DIR", "assets")
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    
     out_svg = pathlib.Path("assets/chess-elo.svg")
     csv_path = pathlib.Path("assets/chess-elo.csv")
+
 
     client = ChessComClient(username)
     archives = client.list_archives()
 
-    # For speed, fetch only the last 18 months of archives
     archives = sorted(archives)[-18:]
 
     builder = EloSeriesBuilder(username=username, time_class="rapid")

@@ -8,6 +8,8 @@ import pathlib
 import datetime as dt
 from dataclasses import dataclass
 from typing import List, Tuple
+import pathlib
+from pathlib import Path
 
 import requests
 import pandas as pd
@@ -108,9 +110,8 @@ def main():
     root = repo_root()
     assets_dir = root / os.getenv("ASSETS_DIR", "assets")
     assets_dir.mkdir(parents=True, exist_ok=True)
-    
-    out_svg = pathlib.Path("assets/chess-elo.svg")
-    csv_path = pathlib.Path("assets/chess-elo.csv")
+    out_svg = assets_dir / "chess-elo.svg"
+    csv_path = assets_dir / "chess-elo.csv"
 
 
     client = ChessComClient(username)

@@ -9,9 +9,9 @@ My master's thesis project! It's all about creating a markov model of the forest
 
 ## Outside Interests
 - Archery (Olympic Recurve ftw 💪🏹)
+- BJJ 🥋
 - Software Defined Radio 📡
 - Retro Emulation 👾
-- RPGs 🧙‍♂️⚔️
 - Chess ♟️ Feel free to add me on chess.com with the green button and send me a game :D
 
 ## 🌐 Socials:

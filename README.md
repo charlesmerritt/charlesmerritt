@@ -14,13 +14,6 @@ My master's thesis project! It's all about creating a markov model of the forest
 - RPGs 🧙‍♂️⚔️
 - Chess ♟️ Feel free to add me on chess.com with the green button and send me a game :D
 
-### My Rapid elo over time
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chess-elo.svg">
-  <img alt="Rapid rating history" src="assets/chess-elo.svg" width="680">
-</picture>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camak._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaz-merritt) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chazmerritt4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charles.merritt@uga.edu) [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/profiles/76561198080686638/) [![Chess.com](https://img.shields.io/badge/Chess.com-Play%20me-69923e?style=for-the-badge&labelColor=2c2b29&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iMyIvPgo8cGF0aCBkPSJNOSAxMWg2bC0xIDNoLTRsLTEtM3oiLz4KPHJlY3QgeD0iNyIgeT0iMTgiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyIi8+CjxyZWN0IHg9IjYiIHk9IjIwIiB3aWR0aD0iMTIiIGhlaWdodD0iMiIvPgo8L3N2Zz4=&logoColor=white)](https://www.chess.com/member/chamzert)
 

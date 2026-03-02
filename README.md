@@ -9,6 +9,9 @@ In this era of agentic engineering, I can be whatever kind of developer I need t
 **Website:**
 [www.chazmerritt.com](http://www.chazmerritt.com)
 
+**Institutional Affiliation:**
+[www.ai.uga.edu](https://ai.uga.edu/directory/people/charles-chaz-merritt)
+
 ---
 
 ## Current Projects

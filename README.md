@@ -1,6 +1,6 @@
 # Hi, I'm Chaz :D
 
-Artificial Intelligence student and researcher at the University of Georgia.
+I'm a student and researcher at the University of Georgia's Institute for Artificial Intelligence.
 
 My work centers on **Markov decision processes, reinforcement learning, digital forestry, and applied machine learning systems**. I believe that ML shouldn't just be for developers, engineers, and academics, so I spend a large amount of time on projects that make the mysteries of ML practical for normal people to benefit from.
 

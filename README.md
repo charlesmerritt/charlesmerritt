@@ -2,7 +2,7 @@
 
 I'm a student and researcher at the University of Georgia's Institute for Artificial Intelligence.
 
-My work centers on **Markov decision processes, reinforcement learning, digital forestry, and applied machine learning systems**. A core belief of mine is that machine learning shouldn't just be for developers, engineers, and academics, so you'll often find me working on projects that seek to close the gap between the developer and lay person.
+My work centers on **Markov decision processes, reinforcement learning, digital forestry, and applied machine learning systems**. A core belief of mine is that machine learning shouldn't just be for developers, engineers, and academics, so you'll often find me working on projects that seek to close the gap between the technical practitioner and lay person.
 
 I work across research, systems design, and production engineering to deliver end-to-end solutions.
 

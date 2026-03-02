@@ -8,9 +8,4 @@ www.chazmerritt.com
 My master's thesis project! It's all about creating a markov decision process to represent stochastic conditions in pine forest growth to better capture random events like storms, fires, or pests, and comparing those stochastic valuations to the traditional deterministic valuation to quantify how much might be missed under deterministic assumptions.
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=charlesmerritt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?theme=radical)

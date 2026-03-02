@@ -14,7 +14,7 @@ In this era of agentic engineering, I can be whatever kind of developer I need t
 
 ---
 
-## Current Projects
+## Current Projects (Abridged)
 
 ### Stochastic Valuation of Pine Stands Using Monte Carlo Simulation
 
@@ -31,6 +31,8 @@ A trademark intelligence platform combining legal expertise with deep learning.
 [https://sets-webnext-production.up.railway.app/](https://sets-webnext-production.up.railway.app/)
 
 Structured Equilibrium Timber Supply (SETS) is an optimization model for timber markets in the U.S. Southeast developed by Dr. Bruno da Silva at the University of Georgia's Warnell School of Forestry and Natural Resources. My work on this project is focused on building an accessible web interface for SETS that allows full interactivity with the sophisticated modelling software using a modern web development stack.
+
+### And probably 10 other things I'm not ready to talk about yet...
 
 ---
 

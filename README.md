@@ -14,7 +14,7 @@ I work across research, systems design, and production engineering to deliver en
 
 ---
 
-## Current Projects (Abridged)
+## Some Current Projects
 
 ### Stochastic Valuation of Pine Stands Using Monte Carlo Simulation
 

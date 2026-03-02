@@ -4,8 +4,8 @@ I'm an Artificial Intelligence student and researcher at the University of Georg
 www.chazmerritt.com
 
 ## Current Projects
-### Harnessing Reinforcement Learning for Forest Growth Modeling Under Uncertainty
-My master's thesis project! It's all about creating a markov model of the forest to better capture random events like storms, fires, or pests, and then training an agent on that environment using reinforcement learning.
+### Stochastic Valuation of Pine Stands Using Monte Carlo Simulation
+My master's thesis project! It's all about creating a markov decision process to represent stochastic conditions in pine forest growth to better capture random events like storms, fires, or pests, and comparing those stochastic valuations to the traditional deterministic valuation to quantify how much might be missed under deterministic assumptions.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmerritt&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

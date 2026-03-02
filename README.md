@@ -4,7 +4,7 @@ I'm a student and researcher at the University of Georgia's Institute for Artifi
 
 My work centers on **Markov decision processes, reinforcement learning, digital forestry, and applied machine learning systems**. A core belief of mine is that machine learning shouldn't just be for developers, engineers, and academics, so you'll often find me working on projects that seek to close the gap between the technical types and lay people.
 
-I work across research, systems design, and production engineering to deliver end-to-end solutions.
+I work across research, systems design, and production engineering to deliver end-to-end solutions across whichever domain is peaking my interest at the time.
 
 **Website:**
 [www.chazmerritt.com](http://www.chazmerritt.com)

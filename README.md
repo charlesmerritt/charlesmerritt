@@ -1,10 +1,10 @@
-# Hi, I'm Chaz :D
+# Hi, I'm Chaz :)
 
 I'm a student and researcher at the University of Georgia's Institute for Artificial Intelligence.
 
-My work centers on **Markov decision processes, reinforcement learning, digital forestry, and applied machine learning systems**. I believe that ML shouldn't just be for developers, engineers, and academics, so I spend a large amount of time on projects that make the mysteries of ML practical for normal people to benefit from.
+My work centers on **Markov decision processes, reinforcement learning, digital forestry, and applied machine learning systems**. A core belief of mine is that ML shouldn't just be for developers, engineers, and academics, so you'll often find me working on projects that seek to close the gap between the developer and lay person.
 
-In this era of agentic engineering, I can be whatever kind of developer I need to be to get the job done. Most often, I spend the most amount of time designing data pipelines and loss functions to tackle novel problems in ML with SOTA architectures. I get particularly excited when solving new problems from first principles, and I have a track record of doing this across different domains, but typically in geospatial settings like forestry.
+I work across research, systems design, and production engineering to deliver end-to-end solutions.
 
 **Website:**
 [www.chazmerritt.com](http://www.chazmerritt.com)
@@ -30,9 +30,7 @@ A trademark intelligence platform combining legal expertise with deep learning.
 
 [https://sets-webnext-production.up.railway.app/](https://sets-webnext-production.up.railway.app/)
 
-Structured Equilibrium Timber Supply (SETS) is an optimization model for timber markets in the U.S. Southeast developed by Dr. Bruno da Silva at the University of Georgia's Warnell School of Forestry and Natural Resources. My work on this project is focused on building an accessible web interface for SETS that allows full interactivity with the sophisticated modelling software using a modern web development stack.
-
-### And probably 10 other things I'm not ready to talk about yet...
+Structured Equilibrium Timber Supply (SETS) is an optimization model for timber markets in the U.S. Southeast developed by Dr. Bruno da Silva at the University of Georgia's Warnell School of Forestry and Natural Resources. My work on this project is focused on building an accessible web interface for SETS that allows full interactivity with the sophisticated modeling software using a modern web development stack.
 
 ---
 

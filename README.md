@@ -4,7 +4,7 @@ I'm a student and researcher at the University of Georgia's Institute for Artifi
 
 My work centers on **applied machine learning systems**. A core belief of mine is that machine learning shouldn't just be for developers, engineers, and academics, so you'll often find me working on projects that seek to close the gap between the technical types and lay people.
 
-I work across research, systems design, and production engineering to deliver end-to-end solutions across whichever domain is peaking my interest at the time.
+Problem solving in academic research often ends at publication, but I aim to extend my work beyond the paper by developing end-to-end solutions in whichever domain is peaking my interest at the time.
 
 **Website:**
 [www.chazmerritt.com](http://www.chazmerritt.com)
@@ -16,9 +16,11 @@ I work across research, systems design, and production engineering to deliver en
 
 ## Some Current Projects
 
-### Stochastic Valuation of Pine Stands Using Monte Carlo Simulation
+### BalatroBot
 
-Designing a stochastic process framework to model pine stand growth under disturbances such as fire, wind, and pests. The goal is to quantify how deterministic forest valuation underestimates risk and long-term economic variability by comparing against Monte Carlo–based stochastic valuations.
+[https://github.com/coder/balatrobot](https://github.com/coder/balatrobot)
+
+BalatroBot is a mod for the Roguelike card game that enables all sorts of cool algorithmic gameplay. The harness is in it's nascent stages because Balatro is closed source, but with enough work it can enable us to do fully automated Balatro play with RL. Think AlphaGo applied to Balatro. Running Python and watching the game play automatically is just the coolest thing.
 
 ### Brandon AI
 
